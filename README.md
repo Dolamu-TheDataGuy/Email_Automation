@@ -1,6 +1,6 @@
 ## Email Merging Automation 
 
-<img src = "./images/Email_Automation.jpg">
+<img src = "./Images/Email_Automation.jpg">
 
 This is a mini python automation project that tries to minimize the burden of unnecessarily composing an email several times.
 
