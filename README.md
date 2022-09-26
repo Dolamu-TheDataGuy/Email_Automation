@@ -8,7 +8,7 @@ The main code for the automation - [main_code](https://github.com/Dolamu-TheData
 
 The names for mail - [Names](https://github.com/Dolamu-TheDataGuy/Email_Automation/blob/main/Input/Names/invited_names.txt)
 
-The letters for the mail - [Letter]("./Letters/starting_letter.txt")
+The letters for the mail - [Letter](https://github.com/Dolamu-TheDataGuy/Email_Automation/tree/main/Input/Letters)
 
 The end result - [Ready_Letter]("./Output/ReadyToSend/")
 
