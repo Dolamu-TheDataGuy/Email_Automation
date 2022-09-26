@@ -10,5 +10,5 @@ The names for mail - [Names](https://github.com/Dolamu-TheDataGuy/Email_Automati
 
 The letters for the mail - [Letter](https://github.com/Dolamu-TheDataGuy/Email_Automation/tree/main/Input/Letters)
 
-The end result - [Ready_Letter]("./Output/ReadyToSend/")
+The end result - [Ready_Letter](https://github.com/Dolamu-TheDataGuy/Email_Automation/tree/main/Output/ReadyToSend)
 
